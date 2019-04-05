@@ -8,7 +8,7 @@ public class MovingBoxScript1 : MonoBehaviour
     public GameObject obj2;
     public float speed;
 
-    private float localTimeScale;
+    private float localTimeScale = 1.0f;
 
     private Vector3 pos1;
     private Vector3 pos2;
@@ -24,10 +24,14 @@ public class MovingBoxScript1 : MonoBehaviour
         if(TimeManager.instance.slowMotion)
         {
             localTimeScale = TimeManager.instance.motionFactor;
+
+            //localTimeScale = Mathf.SmoothStep(localTimeScale, TimeManager.instance.motionFactor, 0.2f);
         }
         else
         {
             localTimeScale = 1.0f;
+
+            //localTimeScale = Mathf.SmoothStep(localTimeScale, 1.0f, 0.2f);
         }
 
         //smooth sin option
