@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cs390vrfinalproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\cs390vr-final-project\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "CS390VR Final Project [Testing]"
+        }
+      }
+    }
+  ]
+}
