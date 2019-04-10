@@ -5,19 +5,6 @@ using Valve.VR;
 
 public class BallTeleportScript : MonoBehaviour
 {
-  
-    void Start()
-    {
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-
-
 
     public GameObject prefab;
     public Rigidbody attachPoint;
@@ -26,6 +13,16 @@ public class BallTeleportScript : MonoBehaviour
 
     SteamVR_Behaviour_Pose trackedObj;
     FixedJoint joint;
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
 
     private void Awake()
     {
@@ -64,6 +61,7 @@ public class BallTeleportScript : MonoBehaviour
         }
     }
 
-    
+
+
 
 }
