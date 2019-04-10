@@ -5,7 +5,7 @@ using UnityEngine;
 public class BallScript : MonoBehaviour
 {
     // Start is called before the first frame update
-    Rigidbody body;
+    public static Rigidbody body;
     void Start()
     {
 
@@ -28,7 +28,6 @@ public class BallScript : MonoBehaviour
         {
             body.velocity = Vector3.zero;
             body.angularVelocity = Vector3.zero;
-            Debug.Log("here");
         }
     }
 }

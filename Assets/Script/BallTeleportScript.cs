@@ -8,9 +8,12 @@ public class BallTeleportScript : MonoBehaviour
 
     public GameObject prefab;
     public Rigidbody attachPoint;
+    public GameObject player;
 
     public SteamVR_Action_Boolean trig = SteamVR_Input.GetAction<SteamVR_Action_Boolean>("InteractUI");
+    public SteamVR_Action_Boolean grip = SteamVR_Input.GetAction<SteamVR_Action_Boolean>("GrabGrip");
 
+    Rigidbody ballBody;
     SteamVR_Behaviour_Pose trackedObj;
     FixedJoint joint;
     void Start()
@@ -27,6 +30,7 @@ public class BallTeleportScript : MonoBehaviour
     private void Awake()
     {
         trackedObj = GetComponent<SteamVR_Behaviour_Pose>();
+        ballBody = prefab.GetComponent<Rigidbody>();
     }
 
     private void FixedUpdate()
@@ -34,7 +38,7 @@ public class BallTeleportScript : MonoBehaviour
         if (joint == null && trig.GetStateDown(trackedObj.inputSource))
         {
             prefab.transform.position = attachPoint.transform.position;
-
+            prefab.GetComponent<Renderer>().enabled = true;
             joint = prefab.AddComponent<FixedJoint>();
             joint.connectedBody = attachPoint;
         }
@@ -58,6 +62,15 @@ public class BallTeleportScript : MonoBehaviour
             }
 
             rigidbody.maxAngularVelocity = rigidbody.angularVelocity.magnitude;
+        }
+        else if(!trig.GetStateDown(trackedObj.inputSource) && ballBody.IsSleeping())
+        {
+            if (grip.GetStateDown(trackedObj.inputSource))
+            {
+                player.transform.position = prefab.transform.position;
+                prefab.GetComponent<Renderer>().enabled = false;
+                Debug.Log("slept");
+            }
         }
     }
 
