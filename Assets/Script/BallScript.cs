@@ -27,7 +27,7 @@ public class BallScript : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if(collision.gameObject.name == "Floor")
+        if(collision.gameObject.layer == 10)
         {
             body.velocity = Vector3.zero;
             body.angularVelocity = Vector3.zero;
