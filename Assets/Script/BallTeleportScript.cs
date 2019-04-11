@@ -35,40 +35,49 @@ public class BallTeleportScript : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (joint == null && trig.GetStateDown(trackedObj.inputSource))
+        if (trig.GetStateDown(trackedObj.inputSource))
         {
-            prefab.transform.position = attachPoint.transform.position;
-            
+            prefab.transform.position = this.transform.position;
             prefab.GetComponent<Renderer>().enabled = true;
-            joint = prefab.AddComponent<FixedJoint>();
-            joint.connectedBody = attachPoint;
+
+           // prefab.transform.SetParent(this.transform);
+            prefab.transform.parent = this.transform;
+
+            ballBody.isKinematic = true;
+   //         joint = prefab.AddComponent<FixedJoint>();
+  //          joint.connectedBody = attachPoint;
+
+
             Collider coll = prefab.GetComponent<Collider>();
             coll.material.dynamicFriction = 0.01f;
             coll.material.staticFriction = 0.01f;
             coll.material.bounciness = 1;
         }
-        else if (joint != null && trig.GetStateUp(trackedObj.inputSource))
+        else if (trig.GetStateUp(trackedObj.inputSource))
         {
-            GameObject go = joint.gameObject;
-            Rigidbody rigidbody = go.GetComponent<Rigidbody>();
-            Object.DestroyImmediate(joint);
-            joint = null;
+            //   GameObject go = prefab;
+            //   Rigidbody rigidbody = go.GetComponent<Rigidbody>();
+            //    Object.DestroyImmediate(joint);
+            //    joint = null;
+            prefab.transform.parent = null;
+            ballBody.isKinematic = false;
+
 
             Transform origin = trackedObj.origin ? trackedObj.origin : trackedObj.transform.parent;
             if (origin != null)
             {
-                rigidbody.velocity = origin.TransformVector(trackedObj.GetVelocity());
-                rigidbody.angularVelocity = origin.TransformVector(trackedObj.GetAngularVelocity());
+                ballBody.velocity = origin.TransformVector(trackedObj.GetVelocity());
+                ballBody.angularVelocity = origin.TransformVector(trackedObj.GetAngularVelocity());
             }
             else
             {
-                rigidbody.velocity = trackedObj.GetVelocity();
-                rigidbody.angularVelocity = trackedObj.GetAngularVelocity();
+                ballBody.velocity = trackedObj.GetVelocity();
+                ballBody.angularVelocity = trackedObj.GetAngularVelocity();
             }
 
-            rigidbody.maxAngularVelocity = rigidbody.angularVelocity.magnitude;
+            ballBody.maxAngularVelocity = ballBody.angularVelocity.magnitude;
         }
-        else if(!trig.GetStateDown(trackedObj.inputSource) && ballBody.IsSleeping())
+        else if(!trig.GetStateDown(trackedObj.inputSource) && BallScript.touchingFloor && prefab.transform.parent == null)
         {
             if (grip.GetStateDown(trackedObj.inputSource))
             {

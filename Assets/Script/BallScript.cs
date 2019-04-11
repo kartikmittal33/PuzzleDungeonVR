@@ -7,6 +7,7 @@ public class BallScript : MonoBehaviour
     // Start is called before the first frame update
     public static Rigidbody body;
     Collider coll;
+    public static bool touchingFloor = true;
     void Start()
     {
 
@@ -29,11 +30,21 @@ public class BallScript : MonoBehaviour
     {
         if(collision.gameObject.layer == 10)
         {
+            touchingFloor = true;
             body.velocity = Vector3.zero;
             body.angularVelocity = Vector3.zero;
             coll.material.dynamicFriction = 1;
             coll.material.staticFriction = 1;
             coll.material.bounciness = 0;
+
+        }
+    }
+
+    private void OnCollisionExit(Collision collision)
+    {
+        if(collision.gameObject.layer == 10)
+        {
+            touchingFloor = false;
         }
     }
 }
