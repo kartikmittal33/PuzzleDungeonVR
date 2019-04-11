@@ -38,9 +38,14 @@ public class BallTeleportScript : MonoBehaviour
         if (joint == null && trig.GetStateDown(trackedObj.inputSource))
         {
             prefab.transform.position = attachPoint.transform.position;
+            
             prefab.GetComponent<Renderer>().enabled = true;
             joint = prefab.AddComponent<FixedJoint>();
             joint.connectedBody = attachPoint;
+            Collider coll = prefab.GetComponent<Collider>();
+            coll.material.dynamicFriction = 0.01f;
+            coll.material.staticFriction = 0.01f;
+            coll.material.bounciness = 1;
         }
         else if (joint != null && trig.GetStateUp(trackedObj.inputSource))
         {
