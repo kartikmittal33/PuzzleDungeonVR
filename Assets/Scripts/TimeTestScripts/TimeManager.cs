@@ -19,9 +19,6 @@ public class TimeManager : MonoBehaviour
         {
             Destroy(gameObject);    //if instance not this, then destroy gameObject because singleton
         }
-
-        //Sets this to not be destroyed when reloading scene
-        DontDestroyOnLoad(gameObject);
     }
 
     void Update()
