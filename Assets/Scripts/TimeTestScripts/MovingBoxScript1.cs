@@ -9,6 +9,7 @@ public class MovingBoxScript1 : MonoBehaviour
     public float speed;
 
     private float localTimeScale = 1.0f;
+	private float localTime = 0.0f;
 
     private Vector3 pos1;
     private Vector3 pos2;
@@ -31,6 +32,7 @@ public class MovingBoxScript1 : MonoBehaviour
         }
 
         //smooth sin option
-        transform.position = Vector3.Lerp(pos1, pos2, (Mathf.Sin(localTimeScale * speed * Time.time) + 1.0f) / 2.0f);
+        transform.position = Vector3.Lerp(pos1, pos2, (Mathf.Sin(localTime) + 1.0f) / 2.0f);
+		localTime += (Time.deltaTime * localTimeScale * speed) % (2 * Mathf.PI);  // Don't overflow
     }
 }
