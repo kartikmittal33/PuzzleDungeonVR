@@ -46,5 +46,21 @@ public class BallScript : MonoBehaviour
         {
             touchingFloor = false;
         }
+
+        
+   
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.layer == 12)
+        {
+            Debug.Log("exited");
+
+            if (!TimeManager.instance.slowMotion)
+            {
+                Debug.Log("here");
+            }
+        }
     }
 }
