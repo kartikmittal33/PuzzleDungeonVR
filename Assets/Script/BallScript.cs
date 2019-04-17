@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BallScript : MonoBehaviour
 {
@@ -51,7 +52,7 @@ public class BallScript : MonoBehaviour
    
     }
 
-    private void OnTriggerExit(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.layer == 12)
         {
@@ -60,6 +61,17 @@ public class BallScript : MonoBehaviour
             if (!TimeManager.instance.slowMotion)
             {
                 Debug.Log("here");
+                Debug.Log(SceneManager.GetActiveScene().name);
+                string sceneName = SceneManager.GetActiveScene().name;
+                if(sceneName == "1")
+                {
+                    SceneManager.LoadScene(1);
+                }
+                else if(sceneName == "2")
+                {
+                    SceneManager.LoadScene(2);
+                }
+                
             }
         }
     }
