@@ -9,6 +9,8 @@ public class BallScript : MonoBehaviour
     public static Rigidbody body;
     Collider coll;
     public static bool touchingFloor = true;
+    public AudioClip bouce;
+    private AudioSource source;
     void Start()
     {
 
@@ -18,7 +20,7 @@ public class BallScript : MonoBehaviour
     {
         body = GetComponent<Rigidbody>();
         coll = GetComponent<Collider>();
-
+        source = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -39,6 +41,10 @@ public class BallScript : MonoBehaviour
             coll.material.bounciness = 0;
 
         }
+        else
+        {
+            source.Play();
+        }
     }
 
     private void OnCollisionExit(Collision collision)
@@ -54,6 +60,7 @@ public class BallScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+
         if (other.gameObject.layer == 14)
         {
             Debug.Log("exited");
