@@ -71,7 +71,7 @@ public class BallScript : MonoBehaviour
                 {
                     SceneManager.LoadScene(2);
                 }
-                
+
             }
         }
     }
