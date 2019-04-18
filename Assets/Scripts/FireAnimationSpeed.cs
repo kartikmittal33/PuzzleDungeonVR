@@ -17,11 +17,11 @@ public class FireAnimationSpeed : MonoBehaviour
         if(TimeManager.instance.slowMotion)
         {
             Debug.Log("sm");
-            main.simulationSpeed = 0.000000000000001f;
+            main.simulationSpeed = 0.4f;
         }
         else
         {
-            main.simulationSpeed = 2;
+            main.simulationSpeed = 1;
         }
     }
 }
