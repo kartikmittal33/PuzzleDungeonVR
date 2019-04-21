@@ -57,3 +57,6 @@ crashlytics-build.properties
 
 # Unity automatically changes this
 unityProject.vrmanifest
+
+*.swo
+*.swp
