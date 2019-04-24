@@ -4,11 +4,17 @@ Dungeon by Quaternius under CC0
 
 `https://www.reddit.com/r/gamedev/comments/7u75tz/free_lowpoly_modular_dungeon/`
 
+## Effects
+
 2D Targets Sprites by Elizabeth Studio
 
 https://assetstore.unity.com/packages/3d/animations/2d-targets-sprites-142142
 
-Sounds
+TinyFire VFX 1.0 by Twelve
+
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/tinyfire-vfx-1-0-97898
+
+## Sounds
 
 Blow by n-lerche under CC0
 
