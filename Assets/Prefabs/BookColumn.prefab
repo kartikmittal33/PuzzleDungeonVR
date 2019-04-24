@@ -4915,7 +4915,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slowToNormal: {fileID: 8300000, guid: c55b3c0835c2f3245903a5c8e63d272e, type: 3}
-  normalToSlow: {fileID: 8300000, guid: 7320ff91e64fc72438374cb72a05e603, type: 3}
+  normalToSlow: {fileID: 8300000, guid: 4e3495099fb29b641a506da4f8b2cfdf, type: 3}
 --- !u!114 &927608439
 MonoBehaviour:
   m_ObjectHideFlags: 0

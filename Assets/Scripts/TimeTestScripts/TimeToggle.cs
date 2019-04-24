@@ -24,12 +24,18 @@ public class TimeToggle : MonoBehaviour
         if (TimeManager.instance.slowMotion == false)
         {
             source.pitch = 1;
-            TorchSoundScript.NormalMotion();
+            foreach (TorchSoundScript t in FindObjectsOfType<TorchSoundScript>())
+            {
+                t.NormalMotion();
+            }
         }
         else
         {
-            source.pitch = 2;
-            TorchSoundScript.SlowMotion();
+            source.pitch = 3;
+            foreach (TorchSoundScript t in FindObjectsOfType<TorchSoundScript>())
+            {
+                t.SlowMotion();
+            }
         }
     }
 
@@ -43,14 +49,19 @@ public class TimeToggle : MonoBehaviour
                 TimeManager.instance.slowMotion = false;
                 source.pitch = 1;
                 source.PlayOneShot(slowToNormal);
-                TorchSoundScript.NormalMotion();
+                foreach(TorchSoundScript t in FindObjectsOfType<TorchSoundScript>()) {
+                    t.NormalMotion();
+                }
             }
             else
             {
                 TimeManager.instance.slowMotion = true;
-                source.pitch = 2;
+                source.pitch = 3;
                 source.PlayOneShot(normalToSlow);
-                TorchSoundScript.SlowMotion();
+                foreach (TorchSoundScript t in FindObjectsOfType<TorchSoundScript>())
+                {
+                    t.SlowMotion();
+                }
             }
         }
     }
