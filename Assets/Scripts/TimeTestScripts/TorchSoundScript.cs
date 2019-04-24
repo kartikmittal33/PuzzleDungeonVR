@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TorchSoundScript : MonoBehaviour
 {
-    static AudioSource sound;
+    AudioSource sound;
 
     private void Awake()
     {
@@ -21,12 +21,13 @@ public class TorchSoundScript : MonoBehaviour
         
     }
 
-    public static void SlowMotion()
+    public void SlowMotion()
     {
-        sound.pitch = 0.5f;
+        Debug.Log("call slomo ");
+        sound.pitch = 0.3f;
     }
 
-    public static void NormalMotion()
+    public void NormalMotion()
     {
         sound.pitch = 1;
     }
