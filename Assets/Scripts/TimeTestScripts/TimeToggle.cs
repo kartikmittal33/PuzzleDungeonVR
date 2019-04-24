@@ -16,7 +16,21 @@ public class TimeToggle : MonoBehaviour
 
     private void Awake()
     {
-        source = GetComponent<AudioSource>();
+        source = GetComponent<AudioSource>();     
+    }
+
+    private void Update()
+    {
+        if (TimeManager.instance.slowMotion == false)
+        {
+            source.pitch = 1;
+            TorchSoundScript.NormalMotion();
+        }
+        else
+        {
+            source.pitch = 2;
+            TorchSoundScript.SlowMotion();
+        }
     }
 
     void OnTriggerEnter(Collider other)
@@ -29,13 +43,14 @@ public class TimeToggle : MonoBehaviour
                 TimeManager.instance.slowMotion = false;
                 source.pitch = 1;
                 source.PlayOneShot(slowToNormal);
+                TorchSoundScript.NormalMotion();
             }
             else
             {
                 TimeManager.instance.slowMotion = true;
                 source.pitch = 2;
                 source.PlayOneShot(normalToSlow);
-
+                TorchSoundScript.SlowMotion();
             }
         }
     }
