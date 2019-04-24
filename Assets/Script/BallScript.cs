@@ -80,6 +80,9 @@ public class BallScript : MonoBehaviour
                 } else if (sceneName == "3")
 				{
 					SceneManager.LoadScene(3);
+				} else if (sceneName == "4")
+				{
+					SceneManager.LoadScene(4);
 				}
 
             }
