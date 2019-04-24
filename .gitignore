@@ -60,3 +60,5 @@ unityProject.vrmanifest
 
 *.swo
 *.swp
+
+ProjectSettings/ProBuilderSettings.json
