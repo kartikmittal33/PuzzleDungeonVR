@@ -12,10 +12,13 @@ public class TimeToggle : MonoBehaviour
             if(TimeManager.instance.slowMotion == true)
             {
                 TimeManager.instance.slowMotion = false;
+                TorchSoundScript.NormalMotion();
             }
             else
             {
                 TimeManager.instance.slowMotion = true;
+                TorchSoundScript.SlowMotion();
+
             }
         }
     }

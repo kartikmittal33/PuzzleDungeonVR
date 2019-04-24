@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4028067768896194016}
   - component: {fileID: 4028067768896194017}
+  - component: {fileID: 8004029528356926907}
   m_Layer: 0
   m_Name: Sound
   m_TagString: Untagged
@@ -127,6 +128,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &8004029528356926907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4028067768896194019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1c30ac15dfdda644950b0efb4e7d4e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4248127770153411919
 GameObject:
   m_ObjectHideFlags: 0
@@ -4842,7 +4855,7 @@ GameObject:
   - component: {fileID: 4248127771520010341}
   - component: {fileID: 4248127771520010342}
   m_Layer: 0
-  m_Name: Torch Fire (2)
+  m_Name: Torch Fire with sound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
