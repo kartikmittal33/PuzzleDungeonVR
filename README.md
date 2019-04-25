@@ -25,3 +25,15 @@ bouncing football off the ground by 13GPanska_Lakota_Jan under CC0
 https://freesound.org/people/13GPanska_Lakota_Jan/sounds/378355/
 
 Torch sound from default SteamVR sounds
+
+Gazz by the_yura under CC0
+
+https://freesound.org/people/the_yura/sounds/234351/
+
+Access Denied by suntemple under CC0
+
+https://freesound.org/people/suntemple/sounds/249300/
+
+jobromedia-bullet-slowdown-finnished by jobro under CC-BY-3.0
+
+https://freesound.org/people/jobro/sounds/66126/
