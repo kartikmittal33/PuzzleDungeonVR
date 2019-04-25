@@ -56,9 +56,26 @@ public class BallTeleportScript : MonoBehaviour
 	ballBody.maxAngularVelocity = ballBody.angularVelocity.magnitude;
     }
 
+    bool insideThing(Vector3 pos) {
+	int i;
+	Vector3 point = new Vector3(100000, 100000, 100000);
+	for (i = 0; ; i++) {
+	    RaycastHit hit;
+	    if (Physics.Linecast(point, pos, out hit)) {
+	        point = hit.point;
+	    } else {
+	        break;
+	    }
+
+	    if (Vector3.Distance(hit.point, pos) < Mathf.Epsilon) break;
+	}
+	
+	return i % 2 == 0;
+    }
+
     private void FixedUpdate()
     {
-        if (trig.GetStateDown(trackedObj.inputSource) && !insideCollider)
+        if (trig.GetStateDown(trackedObj.inputSource))
         {
             prefab.transform.position = this.transform.position;
             prefab.GetComponent<Renderer>().enabled = true;
@@ -84,19 +101,11 @@ public class BallTeleportScript : MonoBehaviour
         {
             if (grip.GetStateDown(trackedObj.inputSource))
             {
+	    	if (insideThing(transform.position)) return;
                 player.transform.position = prefab.transform.position;
                 prefab.GetComponent<Renderer>().enabled = false;
                 Debug.Log("slept");
             }
         }
-    }
-
-
-    private void OnTriggerEnter(Collider col) {
-    	insideCollider = true;
-    }
-
-    private void OnTriggerExit(Collider col) {
-    	insideCollider = false;
     }
 }
