@@ -60,7 +60,6 @@ public class BallScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-
         if (other.gameObject.layer == 14)
         {
             Debug.Log("exited");
@@ -86,6 +85,8 @@ public class BallScript : MonoBehaviour
 				}
 
             }
+        } else if (body.isKinematic) {
+            FindObjectOfType<BallTeleportScript>().LetGo();
         }
     }
 }

@@ -16,6 +16,9 @@ public class BallTeleportScript : MonoBehaviour
     Rigidbody ballBody;
     SteamVR_Behaviour_Pose trackedObj;
     FixedJoint joint;
+
+    private bool insideCollider;
+
     void Start()
     {
 
@@ -33,9 +36,29 @@ public class BallTeleportScript : MonoBehaviour
         ballBody = prefab.GetComponent<Rigidbody>();
     }
 
+    public void LetGo() {
+	prefab.transform.parent = null;
+	ballBody.isKinematic = false;
+	
+	
+	Transform origin = trackedObj.origin ? trackedObj.origin : trackedObj.transform.parent;
+	if (origin != null)
+	{
+	    ballBody.velocity = origin.TransformVector(trackedObj.GetVelocity());
+	    ballBody.angularVelocity = origin.TransformVector(trackedObj.GetAngularVelocity());
+	}
+	else
+	{
+	    ballBody.velocity = trackedObj.GetVelocity();
+	    ballBody.angularVelocity = trackedObj.GetAngularVelocity();
+	}
+	
+	ballBody.maxAngularVelocity = ballBody.angularVelocity.magnitude;
+    }
+
     private void FixedUpdate()
     {
-        if (trig.GetStateDown(trackedObj.inputSource))
+        if (trig.GetStateDown(trackedObj.inputSource) && !insideCollider)
         {
             prefab.transform.position = this.transform.position;
             prefab.GetComponent<Renderer>().enabled = true;
@@ -55,27 +78,7 @@ public class BallTeleportScript : MonoBehaviour
         }
         else if (trig.GetStateUp(trackedObj.inputSource))
         {
-            //   GameObject go = prefab;
-            //   Rigidbody rigidbody = go.GetComponent<Rigidbody>();
-            //    Object.DestroyImmediate(joint);
-            //    joint = null;
-            prefab.transform.parent = null;
-            ballBody.isKinematic = false;
-
-
-            Transform origin = trackedObj.origin ? trackedObj.origin : trackedObj.transform.parent;
-            if (origin != null)
-            {
-                ballBody.velocity = origin.TransformVector(trackedObj.GetVelocity());
-                ballBody.angularVelocity = origin.TransformVector(trackedObj.GetAngularVelocity());
-            }
-            else
-            {
-                ballBody.velocity = trackedObj.GetVelocity();
-                ballBody.angularVelocity = trackedObj.GetAngularVelocity();
-            }
-
-            ballBody.maxAngularVelocity = ballBody.angularVelocity.magnitude;
+	    LetGo();
         }
         else if(!trig.GetStateDown(trackedObj.inputSource) && BallScript.touchingFloor && prefab.transform.parent == null)
         {
@@ -89,6 +92,11 @@ public class BallTeleportScript : MonoBehaviour
     }
 
 
+    private void OnTriggerEnter(Collider col) {
+    	insideCollider = true;
+    }
 
-
+    private void OnTriggerExit(Collider col) {
+    	insideCollider = false;
+    }
 }
