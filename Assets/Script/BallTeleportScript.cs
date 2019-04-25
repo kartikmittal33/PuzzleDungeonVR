@@ -62,6 +62,7 @@ public class BallTeleportScript : MonoBehaviour
         {
             prefab.transform.position = this.transform.position;
             prefab.GetComponent<Renderer>().enabled = true;
+	    prefab.transform.GetChild(0).gameObject.SetActive(true);
 
            // prefab.transform.SetParent(this.transform);
             prefab.transform.parent = this.transform;
@@ -86,6 +87,7 @@ public class BallTeleportScript : MonoBehaviour
             {
                 player.transform.position = prefab.transform.position;
                 prefab.GetComponent<Renderer>().enabled = false;
+	    	prefab.transform.GetChild(0).gameObject.SetActive(false);
                 Debug.Log("slept");
             }
         }
