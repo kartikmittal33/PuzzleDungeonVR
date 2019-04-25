@@ -54,6 +54,7 @@ public class BallTeleportScript : MonoBehaviour
 	}
 	
 	ballBody.maxAngularVelocity = ballBody.angularVelocity.magnitude;
+	prefab.transform.GetChild(0).gameObject.SetActive(true);
     }
 
     private void FixedUpdate()
@@ -62,7 +63,6 @@ public class BallTeleportScript : MonoBehaviour
         {
             prefab.transform.position = this.transform.position;
             prefab.GetComponent<Renderer>().enabled = true;
-	    prefab.transform.GetChild(0).gameObject.SetActive(true);
 
            // prefab.transform.SetParent(this.transform);
             prefab.transform.parent = this.transform;
@@ -76,6 +76,7 @@ public class BallTeleportScript : MonoBehaviour
             coll.material.dynamicFriction = 0.01f;
             coll.material.staticFriction = 0.01f;
             coll.material.bounciness = 1;
+	    prefab.transform.GetChild(0).gameObject.SetActive(false);
         }
         else if (trig.GetStateUp(trackedObj.inputSource))
         {
