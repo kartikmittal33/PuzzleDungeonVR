@@ -125,6 +125,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.258263
@@ -230,7 +235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a4ac1e8969ff6104c9091662aefb5eed, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a4ac1e8969ff6104c9091662aefb5eed, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -263,6 +268,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -339,6 +349,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -623,6 +638,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.258258
@@ -690,6 +710,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -766,6 +791,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -862,7 +892,7 @@ Transform:
   - {fileID: 1760921716}
   - {fileID: 2136330243}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &95156855
 PrefabInstance:
@@ -875,6 +905,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1017,6 +1052,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 25.258263
@@ -1093,6 +1133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 36.258263
@@ -1157,166 +1202,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 107774537}
   m_PrefabAsset: {fileID: 0}
---- !u!43 &113005616
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  serializedVersion: 9
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 24
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 8
-    localAABB:
-      m_Center: {x: 0, y: 0.01, z: 0}
-      m_Extent: {x: 1.65, y: 0, z: 1.275}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000004000100010004000500010005000200020005000600020006000300030006000700030007000000000007000400
-  m_VertexData:
-    serializedVersion: 2
-    m_VertexCount: 8
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 4
-    - stream: 0
-      offset: 28
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 288
-    _typelessdata: 0000c03f0ad7233c000090bf000000000000803f0000803f0000803f00000000000000000000c0bf0ad7233c000090bf000000000000803f0000803f0000803f0000803f000000000000c0bf0ad7233c0000903f000000000000803f0000803f0000803f00000000000000000000c03f0ad7233c0000903f000000000000803f0000803f0000803f0000803f000000003333d33f0ad7233c3333a3bf000000000000803f0000803f00000000000000000000803f3333d3bf0ad7233c3333a3bf000000000000803f0000803f000000000000803f0000803f3333d3bf0ad7233c3333a33f000000000000803f0000803f00000000000000000000803f3333d33f0ad7233c3333a33f000000000000803f0000803f000000000000803f0000803f
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0.01, z: 0}
-    m_Extent: {x: 1.65, y: 0, z: 1.275}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 1
-  m_MeshOptimized: 0
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
 --- !u!1001 &114125627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1471,6 +1356,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 23.261208
@@ -1546,6 +1436,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1769,6 +1664,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.73879504
@@ -1836,6 +1736,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1912,6 +1817,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2127,6 +2037,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.258259
@@ -2202,6 +2117,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2425,6 +2345,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.258263
@@ -2646,6 +2571,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3847,7 +3777,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &280933493
 PrefabInstance:
@@ -3860,6 +3790,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3958,7 +3893,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a4ac1e8969ff6104c9091662aefb5eed, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a4ac1e8969ff6104c9091662aefb5eed, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -3991,6 +3926,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4137,6 +4077,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 34.258263
@@ -4213,6 +4158,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.2612057
@@ -4288,6 +4238,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4503,6 +4458,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.2582579
@@ -4570,6 +4530,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4689,6 +4654,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 40.258263
@@ -4764,6 +4734,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4962,6 +4937,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.2582579
@@ -5102,6 +5082,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5325,6 +5310,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30.261208
@@ -5512,7 +5502,7 @@ PrefabInstance:
     - target: {fileID: 4248127771520010340, guid: 927966b55c7b976499af1242b6d48fb3,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4248127771520010340, guid: 927966b55c7b976499af1242b6d48fb3,
         type: 3}
@@ -5758,6 +5748,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 25.258263
@@ -5941,7 +5936,7 @@ PrefabInstance:
     - target: {fileID: 4522009142627684291, guid: fd1ef3e11a74df9409c9e01d8c5fc189,
         type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 4522009142627684291, guid: fd1ef3e11a74df9409c9e01d8c5fc189,
         type: 3}
@@ -5977,6 +5972,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6126,6 +6126,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6349,6 +6354,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.258259
@@ -6424,6 +6434,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6501,6 +6516,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.258259
@@ -6576,6 +6596,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6653,6 +6678,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 40.258263
@@ -6728,6 +6758,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6805,6 +6840,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.2582577
@@ -6872,6 +6912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6949,6 +6994,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.258261
@@ -7024,6 +7074,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7170,6 +7225,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.258258
@@ -7232,7 +7292,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh33536
+  m_Name: pb_Mesh73862
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -7471,6 +7531,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 27.258263
@@ -7535,75 +7600,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 563133200}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &568403086
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3935480498270957284, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_Name
-      value: DoorSmoke Variant
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.059408545
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.77
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 70.72
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -180
-      objectReference: {fileID: 0}
-    - target: {fileID: 3935480498271122116, guid: 365c3985d822e42458e8379e57a7e962,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 365c3985d822e42458e8379e57a7e962, type: 3}
 --- !u!1001 &569983834
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7761,6 +7757,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7984,6 +7985,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.258259
@@ -8206,6 +8212,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.258261
@@ -8281,6 +8292,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8431,6 +8447,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.261207
@@ -8580,6 +8601,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.2582577
@@ -8648,6 +8674,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.73879504
@@ -8715,6 +8746,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8926,6 +8962,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.258262
@@ -8996,7 +9037,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh34538
+  m_Name: pb_Mesh74866
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -9162,6 +9203,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.258258
@@ -9302,6 +9348,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9598,6 +9649,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 34.258263
@@ -9673,6 +9729,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10005,6 +10066,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.258259
@@ -10173,8 +10239,168 @@ Transform:
   - {fileID: 1905852211}
   - {fileID: 1475691284}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!43 &794362449
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 9
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 24
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 8
+    localAABB:
+      m_Center: {x: 0, y: 0.01, z: 0}
+      m_Extent: {x: 1.65, y: 0, z: 1.275}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000004000100010004000500010005000200020005000600020006000300030006000700030007000000000007000400
+  m_VertexData:
+    serializedVersion: 2
+    m_VertexCount: 8
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 28
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 288
+    _typelessdata: 0000c03f0ad7233c000090bf000000000000803f0000803f0000803f00000000000000000000c0bf0ad7233c000090bf000000000000803f0000803f0000803f0000803f000000000000c0bf0ad7233c0000903f000000000000803f0000803f0000803f00000000000000000000c03f0ad7233c0000903f000000000000803f0000803f0000803f0000803f000000003333d33f0ad7233c3333a3bf000000000000803f0000803f00000000000000000000803f3333d3bf0ad7233c3333a3bf000000000000803f0000803f000000000000803f0000803f3333d3bf0ad7233c3333a33f000000000000803f0000803f00000000000000000000803f3333d33f0ad7233c3333a33f000000000000803f0000803f000000000000803f0000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0.01, z: 0}
+    m_Extent: {x: 1.65, y: 0, z: 1.275}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimized: 0
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!1001 &798715431
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10260,6 +10486,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 27.258263
@@ -10335,6 +10566,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10442,6 +10678,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.258259
@@ -10518,6 +10759,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.73879504
@@ -10585,6 +10831,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10760,6 +11011,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11282,7 +11538,7 @@ Transform:
   - {fileID: 1826299123}
   - {fileID: 1984320338}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &918583384
 PrefabInstance:
@@ -11365,6 +11621,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30.261208
@@ -11441,6 +11702,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.258263
@@ -11516,6 +11782,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11739,6 +12010,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 42.258263
@@ -11853,7 +12129,7 @@ PrefabInstance:
     - target: {fileID: 4248127771520010340, guid: 927966b55c7b976499af1242b6d48fb3,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4248127771520010340, guid: 927966b55c7b976499af1242b6d48fb3,
         type: 3}
@@ -12172,6 +12448,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.73879504
@@ -12239,6 +12520,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12638,7 +12924,7 @@ PrefabInstance:
     - target: {fileID: 7945626449956949715, guid: 8afd018a843f7d745a59eaf95b5309c2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7945626449956949715, guid: 8afd018a843f7d745a59eaf95b5309c2,
         type: 3}
@@ -12742,6 +13028,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 25.258263
@@ -12817,6 +13108,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12959,6 +13255,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.258263
@@ -13073,7 +13374,7 @@ PrefabInstance:
     - target: {fileID: 4248127771520010340, guid: 927966b55c7b976499af1242b6d48fb3,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4248127771520010340, guid: 927966b55c7b976499af1242b6d48fb3,
         type: 3}
@@ -13103,6 +13404,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13171,6 +13477,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13248,6 +13559,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.2582579
@@ -13315,6 +13631,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13611,6 +13932,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 42.258263
@@ -13760,6 +14086,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 23.261208
@@ -13835,6 +14166,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13912,6 +14248,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.2582577
@@ -13979,6 +14320,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14129,6 +14475,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30.261208
@@ -14204,6 +14555,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14281,6 +14637,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.258261
@@ -14356,6 +14717,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14563,6 +14929,40 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0884548898230ec429e08acfd6bf3224, type: 3}
+--- !u!21 &1181336152
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprites/Default
+  m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _EnableExternalAlpha: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1001 &1184803987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14574,6 +14974,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14720,6 +15125,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.2612057
@@ -14826,6 +15236,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.2582577
@@ -14893,6 +15308,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14970,6 +15390,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 34.258263
@@ -15045,6 +15470,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15337,6 +15767,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.258258
@@ -15434,7 +15869,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1747705523, guid: 5f2dafa3eb08e674c841942a21a5f380, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1747705523, guid: 5f2dafa3eb08e674c841942a21a5f380, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -15517,7 +15952,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &1268565659
 GameObject:
@@ -15578,6 +16013,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15728,6 +16168,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.258259
@@ -15803,6 +16248,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15880,6 +16330,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.258258
@@ -15947,6 +16402,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16023,6 +16483,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16246,6 +16711,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 11.258261
@@ -16322,6 +16792,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.73879504
@@ -16389,6 +16864,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16612,6 +17092,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 19.258263
@@ -16761,6 +17246,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.258262
@@ -16836,6 +17326,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17280,7 +17775,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1401238059
 PrefabInstance:
@@ -17293,6 +17788,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17369,6 +17869,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17499,40 +18004,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1403004447}
   m_PrefabAsset: {fileID: 0}
---- !u!21 &1408272838
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Sprites/Default
-  m_Shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _AlphaTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats:
-    - PixelSnap: 0
-    - _EnableExternalAlpha: 0
-    m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!1001 &1430455111
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17647,6 +18118,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17866,6 +18342,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.2582577
@@ -17933,6 +18414,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18009,6 +18495,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18420,6 +18911,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 27.258263
@@ -18642,6 +19138,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.258262
@@ -18717,6 +19218,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19013,6 +19519,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.258263
@@ -19089,6 +19600,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 19.258263
@@ -19164,6 +19680,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19309,6 +19830,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19522,7 +20048,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh34286
+  m_Name: pb_Mesh74614
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -19688,6 +20214,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 23.261208
@@ -19763,6 +20294,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19888,6 +20424,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 40.258263
@@ -19993,7 +20534,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1747705523, guid: 5f2dafa3eb08e674c841942a21a5f380, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1747705523, guid: 5f2dafa3eb08e674c841942a21a5f380, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -20094,6 +20635,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 25.258263
@@ -20169,6 +20715,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20246,6 +20797,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 29.258263
@@ -20321,6 +20877,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20463,6 +21024,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.2582579
@@ -20530,6 +21096,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20606,6 +21177,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20775,7 +21351,7 @@ Transform:
   - {fileID: 873507875}
   - {fileID: 2024998150}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1745536932
 PrefabInstance:
@@ -20788,6 +21364,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21003,6 +21584,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.258263
@@ -21182,6 +21768,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30.261208
@@ -21257,6 +21848,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21406,6 +22002,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21728,6 +22329,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.258259
@@ -21907,6 +22513,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.258263
@@ -21982,6 +22593,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22128,6 +22744,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.2582577
@@ -22195,6 +22816,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22564,6 +23190,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.2612057
@@ -22785,6 +23416,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23196,6 +23832,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.258263
@@ -23331,12 +23972,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 1408272838}
+      objectReference: {fileID: 1181336152}
     - target: {fileID: 7747845066850208135, guid: 16646bc9eede08e439d065cf742cd109,
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 113005616}
+      objectReference: {fileID: 794362449}
     - target: {fileID: 427031526, guid: 16646bc9eede08e439d065cf742cd109, type: 3}
       propertyPath: prefab
       value: 
@@ -23402,6 +24043,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23845,6 +24491,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.73879504
@@ -23912,6 +24563,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24062,6 +24718,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 38.261208
@@ -24205,7 +24866,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh34232
+  m_Name: pb_Mesh74560
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -24371,6 +25032,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 25.258263
@@ -24446,6 +25112,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WallRocks_scaled (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24738,6 +25409,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 38.261208
@@ -24954,7 +25630,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh34640
+  m_Name: pb_Mesh74968
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -25462,6 +26138,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: WallRocks_scaled (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3823204777995437652, guid: 8b8dbc9d30400104f8c1e6434923f05a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1461802634, guid: 8b8dbc9d30400104f8c1e6434923f05a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.2612057
@@ -25576,7 +26257,7 @@ PrefabInstance:
     - target: {fileID: 5412506277836131132, guid: 8abb4553c92a61546bc5a930c79f8af1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 5412506277836131132, guid: 8abb4553c92a61546bc5a930c79f8af1,
         type: 3}
