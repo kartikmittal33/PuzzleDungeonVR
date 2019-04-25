@@ -8,6 +8,9 @@ public class TimeToggle : MonoBehaviour
     /// https://freesound.org/people/n-lerche/sounds/459618/
     /// https://retired.sounddogs.com/sound-effects/slow-motion-doppler-efx-965440
     /// https://freesound.org/people/13GPanska_Lakota_Jan/sounds/378355/
+    /// 
+    /// https://freesound.org/people/suntemple/sounds/249300/
+    /// https://freesound.org/people/the_yura/sounds/234351/
     /// </summary>
     public AudioClip slowToNormal;
     public AudioClip normalToSlow;
@@ -29,6 +32,7 @@ public class TimeToggle : MonoBehaviour
                 t.NormalMotion();
             }
             SmokeScript.Normal();
+            DoorScript.Normal();
         }
         else
         {
@@ -38,6 +42,7 @@ public class TimeToggle : MonoBehaviour
                 t.SlowMotion();
             }
             SmokeScript.SlowMotion();
+            DoorScript.SlowMotion();
         }
     }
 
@@ -57,6 +62,7 @@ public class TimeToggle : MonoBehaviour
                     t.NormalMotion();
                 }
                 SmokeScript.Normal();
+                DoorScript.Normal();
             }
             else
             {
@@ -68,7 +74,7 @@ public class TimeToggle : MonoBehaviour
                     t.SlowMotion();
                 }
                 SmokeScript.SlowMotion();
-
+                DoorScript.SlowMotion();
             }
         }
     }
