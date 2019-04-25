@@ -123,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55ad914956bf485498d22154c4e1034e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bouce: {fileID: 8300000, guid: 1398d8b156c93594288fda71a72a70b2, type: 3}
+  error: {fileID: 8300000, guid: e971d6b05aa1b4747936c705db9ce172, type: 3}
 --- !u!82 &4626837967058106062
 AudioSource:
   m_ObjectHideFlags: 0

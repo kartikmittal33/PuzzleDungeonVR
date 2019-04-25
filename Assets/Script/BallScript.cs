@@ -9,7 +9,7 @@ public class BallScript : MonoBehaviour
     public static Rigidbody body;
     Collider coll;
     public static bool touchingFloor = true;
-    public AudioClip bouce;
+    public AudioClip error;
     private AudioSource source;
     void Start()
     {
@@ -39,6 +39,11 @@ public class BallScript : MonoBehaviour
             coll.material.dynamicFriction = 1;
             coll.material.staticFriction = 1;
             coll.material.bounciness = 0;
+
+        }
+        else if (collision.gameObject.layer == 14)
+        {
+            source.PlayOneShot(error);
 
         }
         else
